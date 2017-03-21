@@ -5,8 +5,7 @@
 </head>
 
 <body>
-<script type = "text/javascript">
-
+<script src = "json.js" type = "text/javascript">
 </script>
 </body>
 
